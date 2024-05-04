@@ -21,7 +21,7 @@ The dataset comprises several attributes related to repayment status, bill amoun
 ### Prerequisites
 You need Python 3.6+ installed along with several libraries which include `pandas`, `numpy`, `matplotlib`, and `sklearn`. You can install these using pip:
 
-pip install pandas numpy matplotlib sklearn
+`pip install pandas numpy matplotlib sklearn`
 
 ### Getting Started
 - Clone this repository or download the project files to your local machine.
@@ -31,7 +31,7 @@ pip install pandas numpy matplotlib sklearn
 ## Usage
 To run the analysis, navigate to the project directory and execute the main script:
 
-python final_code.ipynb
+`python final_code.ipynb`
 
 This script will perform data cleaning, visualization, and predictive modeling automatically.
 
